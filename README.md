@@ -6,11 +6,7 @@
 - Rakshitha P  
 - Arya  
 - Jabez S  
-
----
-
-## 📂 Project File
-📎 PPT File: PROMPT ENGINEERING.pptx  
+ 
 
 ---
 
