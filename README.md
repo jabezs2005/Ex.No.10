@@ -1,4 +1,4 @@
-# 📘 Ex Mo. 10  
+# 📘 Ex No. 10  
 ## 🛒 RETAIL AND E-COMMERCE  
 
 ### 👩‍💻 Presented By
